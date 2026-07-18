@@ -1,0 +1,9 @@
+Product,Category,Region,Sales,Quantity,Profit
+Laptop,Electronics,North,80000,5,12000
+Phone,Electronics,South,50000,8,8000
+Tablet,Electronics,East,30000,4,5000
+Laptop,Electronics,West,75000,6,10000
+Phone,Electronics,North,45000,7,7000
+Watch,Accessories,South,15000,10,3000
+Tablet,Electronics,West,35000,5,6000
+Phone,Electronics,East,55000,9,9000
